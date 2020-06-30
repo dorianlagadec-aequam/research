@@ -5,3 +5,4 @@
 *.pickle
 Online Portfolio Selection/data/*
 *.db
+.vscode/
